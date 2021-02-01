@@ -1,2 +1,2 @@
 # Tutorial-Python
-baby steps with GitHub and Python
+GitHub and Python
